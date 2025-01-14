@@ -1,0 +1,8 @@
+High level overview of folder structure:
+
+1. pkg/routes/bookstore-routes.go: Defines the routes that a user will hit from the API
+2. pkg/config/app.go: Help us connect to mysql database, return variable `DB` that lets other files interact with DB
+3. pkg/utils/utils.go: Any utility functions
+4. cmd/main/main.go: Main routing logic
+5. pkg/models/book.go: 
+6. pkg/controllers/book-controller.go: 

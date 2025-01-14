@@ -1,0 +1,2 @@
+- To avoid the need to mess with gopaths:
+    - go mod init github.com/youruser/yourrepo
