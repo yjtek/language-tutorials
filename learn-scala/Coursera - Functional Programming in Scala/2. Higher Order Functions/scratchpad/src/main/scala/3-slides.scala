@@ -1,3 +1,5 @@
+package slides3
+
 import scala.math.abs
 
 val tolerance = 0.0001
