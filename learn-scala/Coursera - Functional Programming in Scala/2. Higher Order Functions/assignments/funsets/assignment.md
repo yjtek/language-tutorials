@@ -12,13 +12,12 @@
 
 - As an example to motivate our representation, how would you represent the set of all negative integers? You cannot list them all... one way would be to say: if you give me an integer, I can tell you whether it's in the set or not: for 3, I say 'no'; for -1, I say yes.
 
-- Mathematically, we call the function which takes an integer as argument and which returns a boolean indicating whether the given integer belongs to a set, the characteristic function of the set. For example, we can characterize the set of negative integers by the characteristic function (x: Int) => x < 0.
+- Mathematically, we call the function which takes an integer as argument and which returns a boolean indicating whether the given integer belongs to a set, the characteristic function of the set. For example, we can characterize the set of negative integers by the characteristic function `(x: Int) => x < 0`
 
 - Therefore, we choose to represent a set by its characteristic function and define a type alias for this representation:
     ```type FunSet = Int => Boolean```
 
 - Using this representation, we define a function that tests for the presence of a value in a set:
-
     ```def contains(s: FunSet, elem: Int): Boolean = s(elem)```
 
 ### 2.1 Basic Functions on Sets
@@ -45,7 +44,7 @@
 
     ```def forall(s: FunSet, p: Int => Boolean): Boolean```
 
-- Note that there is no direct way to find which elements are in a set. contains only allows to know whether a given element is included. Thus, if we wish to do something to all elements of a set, then we have to iterate over all integers, testing each time whether it is included in the set, and if so, to do something with it. Here, we consider that an integer x has the property -1000 <= x <= 1000 in order to limit the search space.
+- Note that there is no direct way to find which elements are in a set. `contains` only allows to know whether a given element is included. Thus, if we wish to do something to all elements of a set, then we have to iterate over all integers, testing each time whether it is included in the set, and if so, to do something with it. Here, we consider that an integer x has the property -1000 <= x <= 1000 in order to limit the search space.
 
 - Implement `forall` using linear recursion. For this, use a helper function nested in `forall`. Its structure is as follows (replace the ???):
     ```scala
