@@ -1,3 +1,11 @@
+error id: Empty
+file://<WORKSPACE>/learn-scala/Coursera%20-%20Functional%20Programming%20in%20Scala/3.%20Data%20and%20Abstraction/scratchpad/src/main/scala/5-slides.scala
+empty definition using pc, found symbol in pc: 
+semanticdb not found
+found definition using fallback; symbol Empty
+Document text:
+
+```scala
 package mod3_slides5
 
 abstract class IntSet:
@@ -8,10 +16,10 @@ abstract class IntSet:
 //The same Empty set can be reused every time, so can create it as an object instead of a class
 object Empty extends IntSet:
   def contains(x: Int): Boolean = false
-  def incl(x: Int): IntSet = NonEmpty(x, Empty, Empty) //return new instance of NonEmpty
+  def incl(x: Int): IntSet = NonEmpty(x, Empty, Empty)
   def union(s: IntSet): IntSet = s
 
-// Recall that IntSet was defined in the form of a binary tree, so you have elem, left, and right
+// Recall that IntSet was defined in the form of a binary tree
 class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet:
   def contains(x: Int): Boolean = {
     if x < elem then left.contains(x)
@@ -25,13 +33,14 @@ class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet:
     else this
   }
 
-  // recursively build the tree
   def union(s: IntSet): IntSet = {
     this.left.union(this.right).union(s).incl(elem)
   }
 
-// To enable multiple constructor signatures, we rely on polymorphism of the `apply` method. Recall that in Scala, `apply` is called to instantiate an object/class. So Object(42) is equivalent to Object.apply(42)
 object IntSet:
   def apply(): IntSet = Empty
-  def apply(x: Int): IntSet = Empty.incl(x)
-  def apply(x: Int, y: Int): IntSet = Empty.incl(x).incl(y)
+```
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 
