@@ -308,3 +308,1869 @@ Feb 08, 2025 4:49:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 WARNING: Unsupported notification method: metals/windowStateDidChange
 Feb 08, 2025 4:49:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Feb 08, 2025 4:50:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 08, 2025 4:50:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 08, 2025 4:50:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 08, 2025 6:49:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 8:49:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 8:49:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 8:49:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 8:51:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:22:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:22:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:25:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:26:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:31:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:31:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:36:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:37:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:49:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:49:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 09:49:54 INFO  compiling language-tutorials_4b176b44ab (37 scala sources and 292 java sources)
+2025.02.09 09:49:55 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+2025.02.09 09:50:08 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/5-slides copy.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:08 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/5-slides copy.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:08 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/5-slides copy.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:10 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/5-slides copy.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:10 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/6-slides.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:10 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/6-slides.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:10 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/6-slides.scala. Using presentation compiler with project's scala-library version: 3.5.2
+2025.02.09 09:50:11 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 09:50:11 INFO  running doctor check
+2025.02.09 09:50:11 INFO  java targets: language-tutorials_4b176b44ab, language-tutorials_4b176b44ab-test
+2025.02.09 09:50:12 INFO  time: indexed workspace in 1.09s
+2025.02.09 09:50:12 INFO  time: compiled language-tutorials_4b176b44ab in 1.53s
+2025.02.09 09:50:12 INFO  Deduplicating compilation of language-tutorials_4b176b44ab from bsp client 'scala-cli 1.5.4' (since 20h 22m 50.693s)
+2025.02.09 09:50:12 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 09:50:12 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 09:50:13 INFO  time: compiled language-tutorials_4b176b44ab in 1.27s
+2025.02.09 09:50:15 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 09:50:16 INFO  time: compiled language-tutorials_4b176b44ab in 1.22s
+2025.02.09 09:50:20 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 09:50:21 INFO  time: compiled language-tutorials_4b176b44ab in 1.18s
+2025.02.09 09:50:23 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 09:50:24 INFO  time: compiled language-tutorials_4b176b44ab in 1.48s
+Feb 09, 2025 9:56:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:00:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:26:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:27:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:27:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:28:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:29:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:29:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:29:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:29:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:29:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:29:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:33:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:33:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:34:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:26:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:26:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:29:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:29:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:33:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:35:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:36:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:36:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:51:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:51:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:51:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:52:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:28:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:28:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:32:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:32:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:32:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:32:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:32:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:33:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:35:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:35:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:36:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 14:37:03 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:37:04 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+2025.02.09 14:37:07 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:37:08 INFO  time: compiled language-tutorials_4b176b44ab in 1.04s
+Feb 09, 2025 2:37:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:37:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 14:37:17 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:37:18 INFO  time: compiled language-tutorials_4b176b44ab in 1.03s
+2025.02.09 14:37:32 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:37:33 INFO  time: compiled language-tutorials_4b176b44ab in 1.14s
+2025.02.09 14:37:33 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:37:35 INFO  time: compiled language-tutorials_4b176b44ab in 1.16s
+2025.02.09 14:37:41 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:37:42 INFO  time: compiled language-tutorials_4b176b44ab in 1.21s
+Feb 09, 2025 2:37:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:37:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:37:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:38:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:38:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:38:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 14:38:47 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:38:48 INFO  time: compiled language-tutorials_4b176b44ab in 1.09s
+2025.02.09 14:39:09 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 14:39:10 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+Feb 09, 2025 2:39:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:39:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:40:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 2:41:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:28:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:28:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:33:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:33:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:33:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:33:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:33:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:34:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:34:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:39:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:39:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:39:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:39:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:40:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:52:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:52:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:56:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:57:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:58:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 3:58:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:02:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:02:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:17:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:17:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 16:18:23 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 16:18:24 INFO  time: compiled language-tutorials_4b176b44ab in 1.16s
+2025.02.09 16:18:31 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 16:18:32 INFO  time: compiled language-tutorials_4b176b44ab in 1.32s
+Feb 09, 2025 4:18:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2184
+2025.02.09 16:19:00 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 16:19:01 INFO  time: compiled language-tutorials_4b176b44ab in 1.37s
+2025.02.09 16:19:13 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 16:19:14 INFO  time: compiled language-tutorials_4b176b44ab in 1.08s
+2025.02.09 16:19:23 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 16:19:24 INFO  time: compiled language-tutorials_4b176b44ab in 1.11s
+Feb 09, 2025 4:19:54 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 4:19:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:20:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:20:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:20:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:21:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:21:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:21:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:21:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:21:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:21:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:25:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:27:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:28:06 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod3_slides3/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_16-28-06-514.md)
+Feb 09, 2025 4:28:06 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod3_slides3/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_16-28-06-514.md)
+Feb 09, 2025 4:29:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:33:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:34:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:34:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:36:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:36:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:39:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:40:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:42:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 4:43:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:17:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:17:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:17:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:17:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:18:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:18:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:28:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:28:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:28:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:28:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:32:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:32:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:34:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2602
+2025.02.09 21:35:04 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:35:05 INFO  time: compiled language-tutorials_4b176b44ab in 1.26s
+Feb 09, 2025 9:35:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:35:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:36:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:36:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:36:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:36:30 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:36:31 INFO  time: compiled language-tutorials_4b176b44ab in 1.28s
+2025.02.09 21:37:12 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:37:13 INFO  time: compiled language-tutorials_4b176b44ab in 1.22s
+Feb 09, 2025 9:37:29 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.09 21:37:29 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:37:31 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+2025.02.09 21:37:47 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:37:48 INFO  time: compiled language-tutorials_4b176b44ab in 1.31s
+2025.02.09 21:38:24 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:38:25 INFO  time: compiled language-tutorials_4b176b44ab in 1.24s
+2025.02.09 21:38:25 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:38:27 INFO  time: compiled language-tutorials_4b176b44ab in 1.3s
+2025.02.09 21:38:52 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:38:53 INFO  time: compiled language-tutorials_4b176b44ab in 1.3s
+Feb 09, 2025 9:39:00 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 9:39:01 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 9:39:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:39:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:50:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:50:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:51:09 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 9:51:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:51:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:51:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:51:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:52:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:52:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:52:22 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:52:23 INFO  time: compiled language-tutorials_4b176b44ab in 1.24s
+Feb 09, 2025 9:53:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3175
+2025.02.09 21:53:01 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:53:03 INFO  time: compiled language-tutorials_4b176b44ab in 1.21s
+2025.02.09 21:53:07 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:53:08 INFO  time: compiled language-tutorials_4b176b44ab in 1.09s
+Feb 09, 2025 9:53:12 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 9:53:12 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 9:53:12 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 9:53:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:53:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:53:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:53:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:53:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:53:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:53:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:54:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:54:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:54:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:54:13 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 09, 2025 9:54:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:54:14 INFO  time: compiled language-tutorials_4b176b44ab in 1.17s
+Feb 09, 2025 9:54:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:54:18 WARN  Could not find 'Nil' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 09, 2025 9:54:18 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-54-18-285.md)
+Feb 09, 2025 9:54:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:54:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:54:40 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:54:42 INFO  time: compiled language-tutorials_4b176b44ab in 1.22s
+Feb 09, 2025 9:54:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 21:54:45 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:54:46 INFO  time: compiled language-tutorials_4b176b44ab in 1.31s
+Feb 09, 2025 9:55:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:55:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:56:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:56:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:56:03 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 09, 2025 9:56:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:56:11 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.09 21:56:12 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 21:56:14 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+Feb 09, 2025 9:56:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:56:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:56:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 9:57:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:30:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:31:15 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:31:16 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+2025.02.09 22:31:18 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:31:19 INFO  time: compiled language-tutorials_4b176b44ab in 1.33s
+2025.02.09 22:31:24 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:31:25 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+Feb 09, 2025 10:31:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:31:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:00 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.09 22:32:01 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 09, 2025 10:32:02 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.09 22:32:03 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+2025.02.09 22:32:03 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 09, 2025 10:32:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:32:04 INFO  time: compiled language-tutorials_4b176b44ab in 1.17s
+Feb 09, 2025 10:32:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:12 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 09, 2025 10:32:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:14 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 10:32:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:17 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 10:32:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:19 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 10:32:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:32:50 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.09 22:32:50 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:32:51 INFO  time: compiled language-tutorials_4b176b44ab in 1.16s
+2025.02.09 22:32:53 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 09, 2025 10:32:53 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.09 22:32:54 INFO  time: compiled language-tutorials_4b176b44ab in 1.24s
+2025.02.09 22:32:54 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:32:56 INFO  time: compiled language-tutorials_4b176b44ab in 1.39s
+2025.02.09 22:33:00 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:33:02 INFO  time: compiled language-tutorials_4b176b44ab in 1.54s
+Feb 09, 2025 10:33:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:33:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:33:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3698
+2025.02.09 22:33:16 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:33:17 INFO  time: compiled language-tutorials_4b176b44ab in 1.29s
+2025.02.09 22:33:22 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:33:23 INFO  time: compiled language-tutorials_4b176b44ab in 1.54s
+2025.02.09 22:33:26 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:33:28 INFO  time: compiled language-tutorials_4b176b44ab in 1.27s
+2025.02.09 22:33:30 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:33:31 INFO  time: compiled language-tutorials_4b176b44ab in 1.07s
+2025.02.09 22:33:40 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:33:40 INFO  time: compiled language-tutorials_4b176b44ab in 0.97s
+Feb 09, 2025 10:33:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:33:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:34:10 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 09, 2025 10:34:13 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.09 22:34:32 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:34:33 INFO  time: compiled language-tutorials_4b176b44ab in 1.09s
+2025.02.09 22:34:43 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:34:44 INFO  time: compiled language-tutorials_4b176b44ab in 1.07s
+2025.02.09 22:34:51 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:34:52 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+2025.02.09 22:34:54 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:34:54 INFO  time: compiled language-tutorials_4b176b44ab in 0.96s
+2025.02.09 22:34:58 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:35:00 INFO  time: compiled language-tutorials_4b176b44ab in 1.02s
+2025.02.09 22:35:07 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:35:08 INFO  time: compiled language-tutorials_4b176b44ab in 1.07s
+2025.02.09 22:35:19 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:35:21 INFO  time: compiled language-tutorials_4b176b44ab in 1.06s
+Feb 09, 2025 10:35:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:35:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:35:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:36:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:36:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:36:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:36:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:36:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:36:59 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 10:36:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:37:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:37:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:38:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:38:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:39:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:40:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:40:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:40:45 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:40:46 INFO  time: compiled language-tutorials_4b176b44ab in 1.15s
+2025.02.09 22:40:52 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:40:53 INFO  time: compiled language-tutorials_4b176b44ab in 1.08s
+Feb 09, 2025 10:41:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:41:00 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 09, 2025 10:41:00 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+Feb 09, 2025 10:41:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:41:14 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 09, 2025 10:41:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:41:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:41:23 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 09, 2025 10:41:23 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+Feb 09, 2025 10:41:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:42:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:42:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:42:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:42:38 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:42:39 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+Feb 09, 2025 10:42:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:42:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:42:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:43:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:43:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:43:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:43:21 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:43:22 INFO  time: compiled language-tutorials_4b176b44ab in 1.58s
+2025.02.09 22:43:27 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:43:29 INFO  time: compiled language-tutorials_4b176b44ab in 1.29s
+2025.02.09 22:43:45 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:43:46 INFO  time: compiled language-tutorials_4b176b44ab in 1.11s
+Feb 09, 2025 10:43:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:43:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:44:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:44:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:44:11 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.09 22:44:44 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:44:45 INFO  time: compiled language-tutorials_4b176b44ab in 1.14s
+2025.02.09 22:44:56 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:44:57 INFO  time: compiled language-tutorials_4b176b44ab in 1.18s
+2025.02.09 22:45:09 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:45:10 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+2025.02.09 22:45:23 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:45:25 INFO  time: compiled language-tutorials_4b176b44ab in 1.1s
+2025.02.09 22:45:29 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:45:30 INFO  time: compiled language-tutorials_4b176b44ab in 1.03s
+2025.02.09 22:45:34 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:45:36 INFO  time: compiled language-tutorials_4b176b44ab in 1.11s
+2025.02.09 22:45:39 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:45:40 INFO  time: compiled language-tutorials_4b176b44ab in 1.12s
+2025.02.09 22:45:44 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 22:45:44 INFO  time: compiled language-tutorials_4b176b44ab in 0.97s
+Feb 09, 2025 10:46:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:46:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:46:06 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 09, 2025 10:46:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 22:46:08 INFO  time: compiled language-tutorials_4b176b44ab in 1.37s
+Feb 09, 2025 10:46:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:46:28 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 09, 2025 10:46:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Exception in thread "pool-11-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Feb 09, 2025 10:46:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:46:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:46:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:47:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 10:51:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:08:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:08:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:08:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:09:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:43:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:43:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:43:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:43:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:43:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 23:43:32 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 23:43:33 INFO  time: compiled language-tutorials_4b176b44ab in 1.24s
+Feb 09, 2025 11:43:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:43:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:44:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.09 23:44:29 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.09 23:44:30 INFO  time: compiled language-tutorials_4b176b44ab in 1.15s
+Feb 09, 2025 11:44:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:44:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:45:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 09, 2025 11:45:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:21:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:21:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:21:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:21:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:21:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:22:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:32:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:32:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:32:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:33:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:39:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:39:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:39:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:40:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:41:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:41:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:42:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:42:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:43:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:43:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:43:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:44:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:54:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:54:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:54:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:55:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:56:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:56:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:56:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 09:57:16 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 09:57:17 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+2025.02.10 09:57:34 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 09:57:35 INFO  time: compiled language-tutorials_4b176b44ab in 1.55s
+Feb 10, 2025 9:57:51 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 09:57:54 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 09:57:55 INFO  time: compiled language-tutorials_4b176b44ab in 1.38s
+Feb 10, 2025 9:58:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:58:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:58:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:59:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:59:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:59:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 9:59:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:00:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:05:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:06:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:07:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:08:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:09:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:09:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:09:04 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:09:05 INFO  time: compiled language-tutorials_4b176b44ab in 1.19s
+Feb 10, 2025 10:09:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:10:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:10:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:10:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:10:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:10:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:10:33 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:10:33 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:10:34 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:10:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:11:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:11:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:11:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:11:18 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:11:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:12:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:14:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:14:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:14:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:14:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:14:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:14:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:14:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:15:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:16:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:16:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:16:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:16:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:16:30 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:16:31 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+2025.02.10 10:16:40 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:16:41 INFO  time: compiled language-tutorials_4b176b44ab in 1.15s
+Feb 10, 2025 10:17:02 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:17:02 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:17:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:17:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:17:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:17:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:17:41 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:17:41 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:17:41 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:17:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:17:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:17:58 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:18:00 INFO  time: compiled language-tutorials_4b176b44ab in 1.29s
+Feb 10, 2025 10:18:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:18:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:18:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:18:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:18:24 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:24 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:25 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:26 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:18:26 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:26 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:27 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:27 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:27 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:27 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:18:28 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:18:31 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:18:32 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:18:33 INFO  time: compiled language-tutorials_4b176b44ab in 1.45s
+2025.02.10 10:18:33 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:18:35 INFO  time: compiled language-tutorials_4b176b44ab in 1.32s
+Feb 10, 2025 10:18:35 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:18:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:18:40 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:18:40 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:18:41 INFO  time: compiled language-tutorials_4b176b44ab in 1.21s
+2025.02.10 10:18:46 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:18:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+2025.02.10 10:18:47 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:18:47 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:18:47 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+2025.02.10 10:18:48 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:18:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+2025.02.10 10:18:48 INFO  time: compiled language-tutorials_4b176b44ab in 1.4s
+2025.02.10 10:18:48 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:18:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+2025.02.10 10:18:48 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:18:50 INFO  time: compiled language-tutorials_4b176b44ab in 1.35s
+Feb 10, 2025 10:18:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:19:50 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:19:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:19:51 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:19:52 INFO  time: compiled language-tutorials_4b176b44ab in 1.29s
+Feb 10, 2025 10:20:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:20:41 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:20:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:20:43 INFO  time: compiled language-tutorials_4b176b44ab in 1.15s
+2025.02.10 10:20:43 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:20:45 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+Feb 10, 2025 10:20:45 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:20:45 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:20:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:20:49 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:20:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:20:50 INFO  time: compiled language-tutorials_4b176b44ab in 1.36s
+Feb 10, 2025 10:20:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:20:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:20:55 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:20:55 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+Feb 10, 2025 10:20:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:21:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5506
+2025.02.10 10:21:06 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:21:07 INFO  time: compiled language-tutorials_4b176b44ab in 1.26s
+Feb 10, 2025 10:21:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:21:10 WARN  Could not find 'NIL' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:21:10 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_22-41-00-565.md)
+Feb 10, 2025 10:21:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:21:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:21:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:21:18 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:21:19 INFO  time: compiled language-tutorials_4b176b44ab in 1.17s
+2025.02.10 10:21:26 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:21:27 INFO  time: compiled language-tutorials_4b176b44ab in 1.09s
+2025.02.10 10:21:40 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:21:41 INFO  time: compiled language-tutorials_4b176b44ab in 1.05s
+Feb 10, 2025 10:21:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:21:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:21:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:22:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:22:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:22:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:22:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:22:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:22:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:23:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:24:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:24:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:24:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:24:49 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:24:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:24:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:25:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:25:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:25:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:25:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:26:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:27:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:27:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:27:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:28:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:28:39 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:28:40 INFO  time: compiled language-tutorials_4b176b44ab in 1.3s
+Feb 10, 2025 10:28:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:29:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:29:07 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:29:09 INFO  time: compiled language-tutorials_4b176b44ab in 1.36s
+2025.02.10 10:29:09 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:29:10 INFO  time: compiled language-tutorials_4b176b44ab in 1.33s
+2025.02.10 10:29:22 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:29:24 INFO  time: compiled language-tutorials_4b176b44ab in 1.62s
+Feb 10, 2025 10:30:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:31:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:31:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:31:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:31:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:31:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:31:48 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:31:49 INFO  time: compiled language-tutorials_4b176b44ab in 1.07s
+2025.02.10 10:32:00 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:32:02 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+2025.02.10 10:32:03 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:32:04 INFO  time: compiled language-tutorials_4b176b44ab in 1.07s
+Feb 10, 2025 10:32:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:33:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:33:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:33:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:33:49 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:33:51 INFO  time: compiled language-tutorials_4b176b44ab in 1.12s
+2025.02.10 10:33:52 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:33:53 INFO  time: compiled language-tutorials_4b176b44ab in 1.05s
+2025.02.10 10:33:57 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:33:59 INFO  time: compiled language-tutorials_4b176b44ab in 1.05s
+2025.02.10 10:33:59 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:34:00 INFO  time: compiled language-tutorials_4b176b44ab in 1.19s
+Feb 10, 2025 10:34:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5926
+Feb 10, 2025 10:34:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6048
+Feb 10, 2025 10:34:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6069
+Feb 10, 2025 10:34:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6154
+Feb 10, 2025 10:34:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:34:45 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:34:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:34:46 INFO  time: compiled language-tutorials_4b176b44ab in 1.2s
+Feb 10, 2025 10:34:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:34:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:35:06 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:35:07 INFO  time: compiled language-tutorials_4b176b44ab in 1.11s
+Feb 10, 2025 10:35:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6356
+2025.02.10 10:35:25 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:35:25 INFO  time: compiled language-tutorials_4b176b44ab in 0.99s
+Feb 10, 2025 10:35:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6582
+2025.02.10 10:36:11 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:36:12 INFO  time: compiled language-tutorials_4b176b44ab in 1.16s
+2025.02.10 10:36:13 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:36:13 INFO  time: compiled language-tutorials_4b176b44ab in 0.95s
+2025.02.10 10:36:35 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:36:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:36:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.10 10:36:36 INFO  time: compiled language-tutorials_4b176b44ab in 1.06s
+Feb 10, 2025 10:36:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:36:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:36:37 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.10 10:36:37 WARN  Could not find 'DecomposeLIST' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:36:37 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-10/r_empty-definition_(language-tutorials_4b176b44ab)_10-36-37-503.md)
+2025.02.10 10:36:38 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:36:39 INFO  time: compiled language-tutorials_4b176b44ab in 1.19s
+2025.02.10 10:36:44 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:36:45 INFO  time: compiled language-tutorials_4b176b44ab in 1.03s
+2025.02.10 10:36:52 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:36:53 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+2025.02.10 10:36:53 INFO  time: compiled language-tutorials_4b176b44ab in 1.09s
+2025.02.10 10:36:54 WARN  Could not find 'DecomposeLIST' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:36:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:36:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:36:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:36:55 WARN  Could not find 'DecomposeLIST' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 10, 2025 10:36:55 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:36:55 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:36:56 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:36:56 INFO  time: compiled language-tutorials_4b176b44ab in 0.92s
+2025.02.10 10:37:10 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:37:11 INFO  time: compiled language-tutorials_4b176b44ab in 1.15s
+2025.02.10 10:37:12 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:37:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:37:13 INFO  time: compiled language-tutorials_4b176b44ab in 1.2s
+Feb 10, 2025 10:37:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:37:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:38:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:38:42 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:38:42 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:38:42 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:38:42 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:38:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:38:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:38:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:39:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:40:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:40:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:40:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:40:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:41:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:42:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:42:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:42:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:42:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:43:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:43:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:44:43 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:44:44 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:44:45 INFO  time: compiled language-tutorials_4b176b44ab in 1.18s
+2025.02.10 10:44:45 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:44:46 INFO  time: compiled language-tutorials_4b176b44ab in 1.1s
+2025.02.10 10:44:57 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:44:58 INFO  time: compiled language-tutorials_4b176b44ab in 1.33s
+2025.02.10 10:44:58 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:45:01 INFO  time: compiled language-tutorials_4b176b44ab in 1.24s
+2025.02.10 10:45:20 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:45:21 INFO  time: compiled language-tutorials_4b176b44ab in 1.1s
+2025.02.10 10:45:23 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:45:24 INFO  time: compiled language-tutorials_4b176b44ab in 1.16s
+2025.02.10 10:45:44 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:45:45 INFO  time: compiled language-tutorials_4b176b44ab in 1.21s
+2025.02.10 10:46:15 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:46:17 INFO  time: compiled language-tutorials_4b176b44ab in 1.2s
+2025.02.10 10:46:17 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:46:18 INFO  time: compiled language-tutorials_4b176b44ab in 1.12s
+Feb 10, 2025 10:46:19 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:46:24 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:46:26 INFO  time: compiled language-tutorials_4b176b44ab in 1.18s
+Feb 10, 2025 10:46:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:46:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:46:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:46:29 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:46:30 INFO  time: compiled language-tutorials_4b176b44ab in 1.22s
+Feb 10, 2025 10:46:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:46:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:46:45 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:46:47 INFO  time: compiled language-tutorials_4b176b44ab in 1.21s
+2025.02.10 10:46:52 INFO  Shutting down server
+2025.02.10 10:46:52 INFO  shutting down Metals
+2025.02.10 10:46:52 INFO  Shut down connection with build server.
+2025.02.10 10:46:52 INFO  Exiting server
+2025.02.10 10:46:59 INFO  Started: Metals version 1.5.1 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.97.0.
+2025.02.10 10:46:59 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/6-slides.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.02.10 10:46:59 INFO  Attempting to connect to the build server...
+2025.02.10 10:46:59 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.02.10 10:47:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.02.10 10:47:01 INFO  no build target found for /Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/scratchpad/src/main/scala/6-slides.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Feb 10, 2025 10:47:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.02.10 10:47:02 INFO  time: Connected to build server in 2.68s
+2025.02.10 10:47:02 INFO  Connected to Build server: scala-cli v1.5.4
+2025.02.10 10:47:02 INFO  running doctor check
+2025.02.10 10:47:02 INFO  java targets: language-tutorials_4b176b44ab, language-tutorials_4b176b44ab-test
+2025.02.10 10:47:02 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:47:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:47:04 INFO  time: compiled language-tutorials_4b176b44ab in 1.91s
+2025.02.10 10:47:04 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:47:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 10:47:04 INFO  time: indexed workspace in 2.92s
+2025.02.10 10:47:06 INFO  time: compiled language-tutorials_4b176b44ab in 1.42s
+2025.02.10 10:47:06 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:47:08 INFO  time: compiled language-tutorials_4b176b44ab in 1.6s
+2025.02.10 10:47:08 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:47:10 INFO  time: compiled language-tutorials_4b176b44ab in 1.32s
+Feb 10, 2025 10:47:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Feb 10, 2025 10:47:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+2025.02.10 10:47:27 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 10:47:28 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:47:29 INFO  time: compiled language-tutorials_4b176b44ab in 2.06s
+Feb 10, 2025 10:47:30 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 10:47:30 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:47:32 INFO  time: compiled language-tutorials_4b176b44ab in 1.44s
+2025.02.10 10:47:33 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:47:35 INFO  time: compiled language-tutorials_4b176b44ab in 2.13s
+2025.02.10 10:47:43 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 10:47:44 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+Feb 10, 2025 10:47:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:47:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:47:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:48:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:48:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:48:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:48:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:48:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:49:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:05 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:50:05 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:50:06 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:50:06 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:50:06 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:50:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:08 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 10:50:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:50:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:50:53 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:50:53 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:50:53 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:50:53 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 10:50:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:52:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:56:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:56:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:56:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:57:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:58:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:59:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:59:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:59:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:59:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:59:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 10:59:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:00:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:01:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:01:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:02:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:02:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:02:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:03:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:04:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:04:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:04:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:04:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:04:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:05:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:05:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:05:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:05:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:07:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:13:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:13:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:13:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:13:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:13:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:14:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:15:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:16:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:18:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:18:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:20:18 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:20:19 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+2025.02.10 11:20:22 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:20:23 INFO  time: compiled language-tutorials_4b176b44ab in 1.1s
+2025.02.10 11:20:27 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:20:28 INFO  time: compiled language-tutorials_4b176b44ab in 1.43s
+2025.02.10 11:20:35 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:20:36 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+2025.02.10 11:20:53 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:20:54 INFO  time: compiled language-tutorials_4b176b44ab in 1.14s
+Feb 10, 2025 11:21:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:21:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:21:31 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-10/r_empty-definition_(language-tutorials_4b176b44ab)_11-21-31-036.md)
+2025.02.10 11:21:31 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:21:32 INFO  time: compiled language-tutorials_4b176b44ab in 1.23s
+Feb 10, 2025 11:21:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:22:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:22:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:22:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:22:20 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:22:21 INFO  time: compiled language-tutorials_4b176b44ab in 1.18s
+Feb 10, 2025 11:22:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:22:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:22:37 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:22:38 INFO  time: compiled language-tutorials_4b176b44ab in 1.11s
+2025.02.10 11:22:38 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+Feb 10, 2025 11:22:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:22:39 INFO  time: compiled language-tutorials_4b176b44ab in 1.21s
+Feb 10, 2025 11:22:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:22:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:23:23 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:23:24 INFO  time: compiled language-tutorials_4b176b44ab in 1.16s
+Feb 10, 2025 11:23:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:23:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:24:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:24:20 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:24:22 INFO  time: compiled language-tutorials_4b176b44ab in 1.17s
+2025.02.10 11:24:32 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:24:33 INFO  time: compiled language-tutorials_4b176b44ab in 1.12s
+Feb 10, 2025 11:24:37 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-08/r_empty-definition_(language-tutorials_4b176b44ab)_14-35-57-257.md)
+Feb 10, 2025 11:24:37 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 11:24:37 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 11:24:37 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+Feb 10, 2025 11:24:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:25:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:25:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:25:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:25:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:26:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:26:30 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:26:31 INFO  time: compiled language-tutorials_4b176b44ab in 1.25s
+Feb 10, 2025 11:26:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:26:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.10 11:26:44 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:26:46 INFO  time: compiled language-tutorials_4b176b44ab in 1.31s
+Feb 10, 2025 11:26:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 11:27:14 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:27:15 INFO  time: compiled language-tutorials_4b176b44ab in 1.13s
+2025.02.10 11:27:18 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:27:18 INFO  time: compiled language-tutorials_4b176b44ab in 0.99s
+Feb 10, 2025 11:27:19 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc: mod4_slides6/ (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-02-09/r_empty-definition_(language-tutorials_4b176b44ab)_21-56-03-515.md)
+2025.02.10 11:27:20 INFO  compiling language-tutorials_4b176b44ab (38 scala sources and 292 java sources)
+2025.02.10 11:27:21 INFO  time: compiled language-tutorials_4b176b44ab in 1.28s
+Feb 10, 2025 11:27:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:28:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:28:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:28:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:29:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:29:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 10, 2025 11:29:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
