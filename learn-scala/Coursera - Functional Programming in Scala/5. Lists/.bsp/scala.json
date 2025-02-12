@@ -11,12 +11,12 @@
     "--skip-cli-updates",
     "bsp",
     "--json-options",
-    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/src/main/scala/.scala-build/ide-options-v2.json",
+    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/5. Lists/.scala-build/ide-options-v2.json",
     "--json-launcher-options",
-    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/src/main/scala/.scala-build/ide-launcher-options.json",
+    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/5. Lists/.scala-build/ide-launcher-options.json",
     "--envs-file",
-    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/src/main/scala/.scala-build/ide-envs.json",
-    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/4. Types and Pattern Matching/src/main/scala/7-assignment.scala"
+    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/5. Lists/.scala-build/ide-envs.json",
+    "/Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Coursera - Functional Programming in Scala/5. Lists/mod5_slides1.scala"
   ],
   "version": "1.5.4",
   "bspVersion": "2.1.1",

@@ -215,6 +215,7 @@ trait Huffman extends HuffmanInterface:
   def encode(tree: CodeTree)(text: List[Char]): List[Bit] =
     encodeAcc(tree, text, tree, List())
 
+  def encodedSecret: List[Bit] = encode(frenchCode)(List('h', 'u', 'f', 'f', 'm', 'a', 'n', 'e', 's', 't', 'c', 'o', 'o', 'l'))
 
   // Part 4b: Encoding using code table
 
@@ -226,7 +227,6 @@ trait Huffman extends HuffmanInterface:
    */
   def codeBits(table: CodeTable)(char: Char): List[Bit] =
     table.filter(pair => pair._1 == char).head._2
-
 
   /**
    * Given a code tree, create a code table which contains, for every character in the
@@ -263,6 +263,7 @@ trait Huffman extends HuffmanInterface:
   def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = {
     val table = convert(tree)
 
+    // instead of traversing the tree (i.e. in `encode()`), just lookup the codebits from a table
     def quickEncodeAcc(text: List[Char], acc: List[Bit]): List[Bit] = text match {
       case List() => acc
       case x :: xs => quickEncodeAcc(xs, acc ++ codeBits(table)(x))
@@ -284,5 +285,7 @@ object Huffman extends Huffman
 
   val text = "abc".toList
 
-  println(h.encode(tree, text))
+  println(h.decodedSecret)
+  println(h.encodedSecret)
+  println(h.quickEncode(h.frenchCode)(List('h', 'u', 'f', 'f', 'm', 'a', 'n', 'e', 's', 't', 'c', 'o', 'o', 'l')))
 }
