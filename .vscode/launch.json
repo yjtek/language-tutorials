@@ -8,7 +8,7 @@
         "type": "scala",
         "request": "launch",
         "name": "Run Main",
-        "mainClass": "Main",
+        "mainClass": "main",
         "buildTarget": "root"
         }
     ]
