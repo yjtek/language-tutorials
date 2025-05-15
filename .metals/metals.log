@@ -2715,3 +2715,621 @@ WARNING: Unsupported notification method: metals/windowStateDidChange
 2025.04.17 14:11:57 INFO  time: compiled language-tutorials_4b176b44ab in 7.44s
 Apr 17, 2025 3:22:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.04.17 15:40:42 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 292 java sources)
+2025.04.17 15:40:44 INFO  time: compiled language-tutorials_4b176b44ab in 2.4s
+2025.04.17 15:40:44 INFO  time: Imported build in 2.51s
+2025.04.17 15:40:44 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 292 java sources)
+2025.04.17 15:40:46 INFO  time: indexed workspace in 2.21s
+2025.04.17 15:40:47 INFO  time: compiled language-tutorials_4b176b44ab in 2.48s
+2025.04.17 15:41:53 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 293 java sources)
+2025.04.17 15:41:55 INFO  time: compiled language-tutorials_4b176b44ab in 2.09s
+2025.04.17 15:41:55 INFO  time: Imported build in 2.19s
+2025.04.17 15:41:55 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 293 java sources)
+2025.04.17 15:41:58 INFO  time: indexed workspace in 2.4s
+2025.04.17 15:41:58 INFO  time: compiled language-tutorials_4b176b44ab in 2.84s
+Apr 17, 2025 3:42:08 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Rock%20the%20JVM/Scala%202%20Essentials/rock-the-jvm-scala-beginners/src/playground/JavaPlayground.java (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-04-17/r_qdox-error_(language-tutorials_4b176b44ab)_15-42-08-433.md)
+2025.04.17 15:42:09 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 293 java sources)
+Apr 17, 2025 3:42:12 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///Users/yongjian.tek/Desktop/language-tutorials/learn-scala/Rock%20the%20JVM/Scala%202%20Essentials/rock-the-jvm-scala-beginners/src/playground/JavaPlayground.java (full report at: /Users/yongjian.tek/Desktop/language-tutorials/.metals/.reports/metals-full/2025-04-17/r_qdox-error_(language-tutorials_4b176b44ab)_15-42-08-433.md)
+2025.04.17 15:42:14 INFO  time: compiled language-tutorials_4b176b44ab in 4.89s
+2025.04.17 15:42:15 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 293 java sources)
+2025.04.17 15:42:21 INFO  time: compiled language-tutorials_4b176b44ab in 6.37s
+2025.04.17 15:42:23 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 293 java sources)
+2025.04.17 15:42:26 INFO  time: compiled language-tutorials_4b176b44ab in 3.14s
+2025.04.17 15:42:26 INFO  compiling language-tutorials_4b176b44ab (73 scala sources and 293 java sources)
+2025.04.17 15:42:30 INFO  time: compiled language-tutorials_4b176b44ab in 3.39s
+2025.04.17 15:43:14 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:43:15 INFO  time: compiled language-tutorials_4b176b44ab in 1.69s
+2025.04.17 15:43:15 INFO  time: Imported build in 1.8s
+2025.04.17 15:43:15 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:43:18 INFO  time: indexed workspace in 2.5s
+2025.04.17 15:43:19 INFO  time: compiled language-tutorials_4b176b44ab in 3.29s
+2025.04.17 15:43:19 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:43:22 INFO  time: compiled language-tutorials_4b176b44ab in 2.85s
+2025.04.17 15:43:27 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:43:30 INFO  time: compiled language-tutorials_4b176b44ab in 2.4s
+2025.04.17 15:43:33 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:43:35 INFO  time: compiled language-tutorials_4b176b44ab in 2.21s
+2025.04.17 15:43:36 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:43:40 INFO  time: compiled language-tutorials_4b176b44ab in 3.18s
+2025.04.17 15:44:33 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:44:36 INFO  time: compiled language-tutorials_4b176b44ab in 2.95s
+2025.04.17 15:44:54 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:44:57 INFO  time: compiled language-tutorials_4b176b44ab in 3.52s
+2025.04.17 15:44:57 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:45:00 INFO  time: compiled language-tutorials_4b176b44ab in 2.14s
+2025.04.17 15:45:15 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:45:18 INFO  time: compiled language-tutorials_4b176b44ab in 3.16s
+2025.04.17 15:45:20 INFO  compiling language-tutorials_4b176b44ab (74 scala sources and 293 java sources)
+2025.04.17 15:45:22 INFO  time: compiled language-tutorials_4b176b44ab in 2.44s
+2025.04.17 15:54:30 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.17 15:54:32 INFO  time: compiled language-tutorials_4b176b44ab in 2.46s
+2025.04.17 15:54:32 INFO  time: Imported build in 2.56s
+2025.04.17 15:54:32 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.17 15:54:34 INFO  time: indexed workspace in 1.9s
+2025.04.17 15:54:35 INFO  time: compiled language-tutorials_4b176b44ab in 2.1s
+2025.04.17 15:54:43 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.17 15:54:45 INFO  time: compiled language-tutorials_4b176b44ab in 2.18s
+2025.04.17 15:59:37 INFO  Shutting down server
+2025.04.17 15:59:37 INFO  shutting down Metals
+2025.04.17 15:59:38 INFO  Shut down connection with build server.
+2025.04.17 15:59:37 INFO  Exiting server
+2025.04.17 16:00:18 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.17 16:00:20 INFO  Attempting to connect to the build server...
+2025.04.17 16:00:20 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.17 16:00:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.17 16:00:20 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.17 16:00:26 INFO  time: Connected to build server in 6.37s
+2025.04.17 16:00:26 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.17 16:00:27 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.17 16:00:31 INFO  time: compiled language-tutorials_4b176b44ab in 3.55s
+2025.04.17 16:00:31 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.17 16:00:34 INFO  time: indexed workspace in 7.5s
+2025.04.17 16:00:34 INFO  time: compiled language-tutorials_4b176b44ab in 3.4s
+2025.04.18 08:11:27 INFO  Shutting down server
+2025.04.18 08:11:27 INFO  shutting down Metals
+2025.04.18 08:11:28 INFO  Shut down connection with build server.
+2025.04.18 08:11:28 INFO  Exiting server
+2025.04.18 08:17:55 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.18 08:17:58 INFO  Attempting to connect to the build server...
+2025.04.18 08:17:58 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.18 08:17:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.18 08:17:59 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.18 08:18:06 INFO  time: Connected to build server in 7.51s
+2025.04.18 08:18:06 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.18 08:18:07 INFO  time: Imported build in 0.24s
+2025.04.18 08:18:08 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.18 08:18:12 INFO  time: indexed workspace in 5.5s
+2025.04.18 08:18:21 INFO  time: compiled language-tutorials_4b176b44ab in 12s
+2025.04.18 08:18:21 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.18 08:18:26 INFO  time: compiled language-tutorials_4b176b44ab in 5.4s
+2025.04.20 12:05:15 INFO  Shutting down server
+2025.04.20 12:05:15 INFO  shutting down Metals
+2025.04.20 12:05:16 INFO  Shut down connection with build server.
+2025.04.20 12:05:15 INFO  Exiting server
+2025.04.20 12:07:35 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.20 12:07:41 INFO  Attempting to connect to the build server...
+2025.04.20 12:07:41 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.20 12:07:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.20 12:07:50 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.20 12:07:50 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.20 12:07:50 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.20 12:07:50 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.20 12:07:58 INFO  time: Connected to build server in 16s
+2025.04.20 12:07:58 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.20 12:07:58 INFO  time: Imported build in 0.17s
+2025.04.20 12:08:00 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 12:08:07 INFO  time: indexed workspace in 9.15s
+2025.04.20 12:08:16 INFO  time: compiled language-tutorials_4b176b44ab in 15s
+2025.04.20 12:08:16 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 12:08:27 INFO  time: compiled language-tutorials_4b176b44ab in 10s
+2025.04.20 13:41:10 INFO  Shutting down server
+2025.04.20 13:41:10 INFO  shutting down Metals
+2025.04.20 13:41:11 INFO  Shut down connection with build server.
+2025.04.20 13:41:10 INFO  Exiting server
+2025.04.20 13:41:28 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.20 13:41:29 INFO  Attempting to connect to the build server...
+2025.04.20 13:41:29 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.20 13:41:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.20 13:41:30 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.20 13:41:34 INFO  time: Connected to build server in 4.69s
+2025.04.20 13:41:34 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.20 13:41:34 INFO  time: Imported build in 0.1s
+2025.04.20 13:41:35 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 13:41:38 INFO  time: indexed workspace in 4.35s
+2025.04.20 13:41:40 INFO  time: compiled language-tutorials_4b176b44ab in 5.74s
+2025.04.20 13:41:40 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 13:41:44 INFO  time: compiled language-tutorials_4b176b44ab in 3.92s
+Apr 20, 2025 1:42:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.20 13:43:05 INFO  Shutting down server
+2025.04.20 13:43:05 INFO  shutting down Metals
+2025.04.20 13:43:05 INFO  Shut down connection with build server.
+2025.04.20 13:43:05 INFO  Exiting server
+2025.04.20 13:43:25 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.20 13:43:27 INFO  Attempting to connect to the build server...
+2025.04.20 13:43:27 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.20 13:43:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.20 13:43:27 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.20 13:43:31 INFO  time: Connected to build server in 4.66s
+2025.04.20 13:43:31 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.20 13:43:32 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 13:43:42 INFO  time: compiled language-tutorials_4b176b44ab in 9.86s
+2025.04.20 13:43:42 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 13:43:49 INFO  time: compiled language-tutorials_4b176b44ab in 6.84s
+2025.04.20 13:44:06 INFO  time: indexed workspace in 35s
+2025.04.20 13:45:41 INFO  BSP server: [E] Caught java.lang.InterruptedException
+2025.04.20 13:45:41 INFO  BSP server: Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+2025.04.20 13:45:41 INFO  BSP server: Running the clean sub-command to clear the working directory and remove caches might help.
+2025.04.20 13:45:41 INFO  BSP server: If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing -v -v -v.
+2025.04.20 13:46:31 INFO  BSP server: Fatal error has occured within bloop bsp server, method: workspaceBuildTargets. Shutting down the server:
+2025.04.20 13:46:31 INFO  BSP server:  org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+2025.04.20 13:46:31 INFO  BSP server: 	at jdk.proxy4/jdk.proxy4.$Proxy48.workspaceBuildTargets(Unknown Source)
+2025.04.20 13:46:31 INFO  BSP server: 	at scala.build.bsp.BuildServerForwardStubs.workspaceBuildTargets(BuildServerForwardStubs.scala:79)
+2025.04.20 13:46:31 INFO  BSP server: 	at scala.build.bsp.BuildServerForwardStubs.workspaceBuildTargets$(BuildServerForwardStubs.scala:9)
+2025.04.20 13:46:31 INFO  BSP server: 	at scala.build.bsp.BspServer.workspaceBuildTargets(BspServer.scala:273)
+2025.04.20 13:46:31 INFO  BSP server: 	at scala.build.bsp.BuildServerProxy.workspaceBuildTargets(BuildServerProxy.scala:32)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.lang.reflect.Method.invoke(Method.java:568)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.lang.Thread.run(Thread.java:833)
+2025.04.20 13:46:31 INFO  BSP server: 	at com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:775)
+2025.04.20 13:46:31 INFO  BSP server: 	at com.oracle.svm.core.posix.thread.PosixPlatformThreads.pthreadStartRoutine(PosixPlatformThreads.java:203)
+2025.04.20 13:46:31 INFO  BSP server: Caused by: java.io.IOException: Broken pipe
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/sun.nio.ch.FileDispatcherImpl.write0(FileDispatcherImpl.java)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.nio.channels.Channels.writeFully(Channels.java:93)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.nio.channels.Channels$1.write(Channels.java:171)
+2025.04.20 13:46:31 INFO  BSP server: 	at java.base@17.0.6/java.io.OutputStream.write(OutputStream.java:127)
+2025.04.20 13:46:31 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+2025.04.20 13:46:31 INFO  BSP server: 	... 22 more
+2025.04.20 13:46:31 INFO  BSP server: 
+2025.04.20 13:46:32 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.20 13:46:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.20 13:46:32 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.20 13:46:35 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.20 13:46:35 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 13:46:36 INFO  time: indexed workspace in 1.67s
+2025.04.20 13:46:44 INFO  time: compiled language-tutorials_4b176b44ab in 9.29s
+2025.04.20 13:46:44 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.20 13:46:51 INFO  time: compiled language-tutorials_4b176b44ab in 6.96s
+Apr 20, 2025 2:06:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 20, 2025 2:06:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.22 22:37:48 INFO  Shutting down server
+2025.04.22 22:37:48 INFO  shutting down Metals
+2025.04.22 22:37:48 INFO  Shut down connection with build server.
+2025.04.22 22:37:48 INFO  Exiting server
+2025.04.23 08:34:19 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.23 08:34:22 INFO  Attempting to connect to the build server...
+2025.04.23 08:34:22 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.23 08:34:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.23 08:34:24 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.23 08:34:36 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.23 08:34:36 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.23 08:34:36 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.23 08:34:36 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.23 08:34:53 INFO  time: Connected to build server in 30s
+2025.04.23 08:34:53 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.23 08:34:54 INFO  time: Imported build in 0.3s
+2025.04.23 08:34:58 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.23 08:35:06 INFO  time: indexed workspace in 12s
+2025.04.23 08:35:17 INFO  time: compiled language-tutorials_4b176b44ab in 19s
+2025.04.23 08:35:17 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.23 08:35:30 INFO  time: compiled language-tutorials_4b176b44ab in 12s
+Apr 23, 2025 6:15:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 23, 2025 6:15:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 24, 2025 8:34:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 24, 2025 8:36:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 24, 2025 4:16:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 25, 2025 10:22:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 25, 2025 11:50:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 25, 2025 11:50:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 25, 2025 11:50:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.26 13:37:14 INFO  Shutting down server
+2025.04.26 13:37:14 INFO  shutting down Metals
+2025.04.26 13:37:14 INFO  Shut down connection with build server.
+2025.04.26 13:37:14 INFO  Exiting server
+2025.04.26 13:41:24 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.26 13:41:33 INFO  Attempting to connect to the build server...
+2025.04.26 13:41:33 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.26 13:41:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.26 13:41:46 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.26 13:41:46 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.26 13:41:46 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.26 13:41:46 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.04.26 13:41:59 INFO  time: Connected to build server in 25s
+2025.04.26 13:41:59 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.26 13:41:59 INFO  time: Imported build in 0.17s
+2025.04.26 13:42:01 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.26 13:42:10 INFO  time: indexed workspace in 11s
+2025.04.26 13:42:15 INFO  time: compiled language-tutorials_4b176b44ab in 14s
+2025.04.26 13:42:15 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.26 13:42:19 INFO  time: compiled language-tutorials_4b176b44ab in 3.79s
+2025.04.26 13:43:19 INFO  Shutting down server
+2025.04.26 13:43:19 INFO  shutting down Metals
+2025.04.26 13:43:19 INFO  Shut down connection with build server.
+2025.04.26 13:43:19 INFO  Exiting server
+2025.04.26 13:44:23 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.04.26 13:44:24 INFO  Attempting to connect to the build server...
+2025.04.26 13:44:24 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.04.26 13:44:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.04.26 13:44:25 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.04.26 13:44:31 INFO  time: Connected to build server in 6.19s
+2025.04.26 13:44:31 INFO  Connected to Build server: scala-cli v1.7.1
+2025.04.26 13:44:32 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.26 13:44:38 INFO  time: indexed workspace in 6.98s
+2025.04.26 13:44:39 INFO  time: compiled language-tutorials_4b176b44ab in 6.98s
+2025.04.26 13:44:39 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.04.26 13:44:43 INFO  time: compiled language-tutorials_4b176b44ab in 3.6s
+Apr 26, 2025 1:47:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.01 19:25:28 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.05.01 19:25:33 INFO  Attempting to connect to the build server...
+2025.05.01 19:25:33 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.01 19:25:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.01 19:25:33 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.01 19:25:36 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.01 19:25:36 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.01 19:25:36 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.01 19:25:36 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.01 19:25:40 INFO  time: Connected to build server in 7s
+2025.05.01 19:25:40 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.01 19:25:41 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.01 19:25:44 INFO  time: indexed workspace in 4.38s
+2025.05.01 19:25:52 INFO  time: compiled language-tutorials_4b176b44ab in 11s
+2025.05.01 19:25:52 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.01 19:25:55 INFO  time: compiled language-tutorials_4b176b44ab in 2.92s
+2025.05.02 11:21:34 INFO  Shutting down server
+2025.05.02 11:21:34 INFO  shutting down Metals
+2025.05.02 11:21:35 INFO  Shut down connection with build server.
+2025.05.02 11:22:20 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.05.02 11:22:29 INFO  Attempting to connect to the build server...
+2025.05.02 11:22:29 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.02 11:22:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.02 11:22:30 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.02 11:22:41 INFO  time: Connected to build server in 11s
+2025.05.02 11:22:41 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.02 11:22:41 INFO  time: Imported build in 0.14s
+2025.05.02 11:22:42 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.02 11:22:50 INFO  time: indexed workspace in 9.03s
+2025.05.02 11:22:51 INFO  time: compiled language-tutorials_4b176b44ab in 8.46s
+2025.05.02 11:22:51 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.02 11:22:57 INFO  time: compiled language-tutorials_4b176b44ab in 5.7s
+2025.05.05 09:10:49 INFO  Shutting down server
+2025.05.05 09:10:49 INFO  shutting down Metals
+2025.05.05 09:10:49 INFO  Shut down connection with build server.
+2025.05.05 09:10:49 INFO  Exiting server
+2025.05.05 09:13:49 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.05.05 09:13:50 INFO  Attempting to connect to the build server...
+2025.05.05 09:13:50 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.05 09:13:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.05 09:13:51 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.05 09:13:57 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.05 09:13:57 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.05 09:13:57 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.05 09:13:57 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.05 09:13:59 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom
+2025.05.05 09:14:01 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom
+2025.05.05 09:14:01 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:01 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:01 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom
+2025.05.05 09:14:03 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom
+2025.05.05 09:14:03 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:04 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:04 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom.sha1
+2025.05.05 09:14:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom
+2025.05.05 09:14:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom.sha1
+2025.05.05 09:14:07 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:07 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom
+2025.05.05 09:14:07 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom.sha1
+2025.05.05 09:14:07 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom
+2025.05.05 09:14:07 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom.sha1
+2025.05.05 09:14:07 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom
+2025.05.05 09:14:07 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom
+2025.05.05 09:14:07 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom.sha1
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom
+2025.05.05 09:14:08 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom
+2025.05.05 09:14:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.pom
+2025.05.05 09:14:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.pom
+2025.05.05 09:14:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.pom
+2025.05.05 09:14:09 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+2025.05.05 09:14:09 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+2025.05.05 09:14:09 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom.sha1
+2025.05.05 09:14:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom.sha1
+2025.05.05 09:14:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+2025.05.05 09:14:10 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+2025.05.05 09:14:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom.sha1
+2025.05.05 09:14:12 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom.sha1
+2025.05.05 09:14:12 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+2025.05.05 09:14:12 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.5.16/logback-parent-1.5.16.pom
+2025.05.05 09:14:12 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom
+2025.05.05 09:14:12 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom
+2025.05.05 09:14:12 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom
+2025.05.05 09:14:12 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom
+2025.05.05 09:14:12 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:12 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:12 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom
+2025.05.05 09:14:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom
+2025.05.05 09:14:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom.sha1
+2025.05.05 09:14:19 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom
+2025.05.05 09:14:19 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom.sha1
+2025.05.05 09:14:19 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom.sha1
+2025.05.05 09:14:19 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom
+2025.05.05 09:14:19 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom.sha1
+2025.05.05 09:14:19 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom
+2025.05.05 09:14:19 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom
+2025.05.05 09:14:19 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:28 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom
+2025.05.05 09:14:28 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom.sha1
+2025.05.05 09:14:28 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom
+2025.05.05 09:14:28 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom.sha1
+2025.05.05 09:14:28 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:28 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom
+2025.05.05 09:14:28 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.pom
+2025.05.05 09:14:28 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom.sha1
+2025.05.05 09:14:28 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom.sha1
+2025.05.05 09:14:28 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom
+2025.05.05 09:14:28 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom
+2025.05.05 09:14:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.16.0/jna-5.16.0.pom
+2025.05.05 09:14:29 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.pom
+2025.05.05 09:14:29 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom
+2025.05.05 09:14:31 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom
+2025.05.05 09:14:31 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:31 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:31 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom
+2025.05.05 09:14:32 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom
+2025.05.05 09:14:32 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:32 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:32 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:33 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:33 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom
+2025.05.05 09:14:33 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:34 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:34 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom
+2025.05.05 09:14:34 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:34 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom
+2025.05.05 09:14:34 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom
+2025.05.05 09:14:34 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:34 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom
+2025.05.05 09:14:34 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:34 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom
+2025.05.05 09:14:34 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:35 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom
+2025.05.05 09:14:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.10.6/util-position_2.12-1.10.6.pom
+2025.05.05 09:14:35 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom.sha1
+2025.05.05 09:14:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom
+2025.05.05 09:14:35 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom.sha1
+2025.05.05 09:14:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom
+2025.05.05 09:14:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.pom
+2025.05.05 09:14:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.pom
+2025.05.05 09:14:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.jar
+2025.05.05 09:14:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.jar
+2025.05.05 09:14:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.jar
+2025.05.05 09:14:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.jar
+2025.05.05 09:14:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.jar
+2025.05.05 09:14:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.16.0/jna-5.16.0.jar
+2025.05.05 09:14:38 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.8/bloop-shared_2.12-2.0.8.jar
+2025.05.05 09:14:38 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.jar
+2025.05.05 09:14:38 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.12.6/common_2.12-4.12.6.jar
+2025.05.05 09:14:38 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.jar
+2025.05.05 09:14:38 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.16/logback-core-1.5.16.jar
+2025.05.05 09:14:38 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.2/scala-debug-adapter_2.12-4.2.2.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.12.6/parsers_2.12-4.12.6.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.16/logback-classic-1.5.16.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.8/bloop-backend_2.12-2.0.8.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.6/util-cache_2.12-1.10.6.jar
+2025.05.05 09:14:39 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.16.0/jna-5.16.0.jar
+2025.05.05 09:14:41 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.8/bloop-frontend_2.12-2.0.8.jar
+2025.05.05 09:14:43 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.12.6/trees_2.12-4.12.6.jar
+2025.05.05 09:14:43 INFO  BSP server: Starting compilation server
+2025.05.05 09:14:47 INFO  time: Connected to build server in 56s
+2025.05.05 09:14:47 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.05 09:14:48 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.05 09:14:52 INFO  time: indexed workspace in 4.75s
+2025.05.05 09:14:56 INFO  time: compiled language-tutorials_4b176b44ab in 8.04s
+2025.05.05 09:14:56 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.05 09:15:00 INFO  time: compiled language-tutorials_4b176b44ab in 4.18s
+2025.05.05 11:24:59 INFO  BSP server: [E] Caught java.lang.InterruptedException
+2025.05.05 11:24:59 INFO  BSP server: Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+2025.05.05 11:24:59 INFO  BSP server: Running the clean sub-command to clear the working directory and remove caches might help.
+2025.05.05 11:24:59 INFO  BSP server: If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing -v -v -v.
+May 06, 2025 3:52:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.07 18:48:57 INFO  Shutting down server
+2025.05.07 18:48:57 INFO  shutting down Metals
+2025.05.07 18:48:57 INFO  Shut down connection with build server.
+2025.05.07 18:48:57 INFO  Exiting server
+2025.05.07 20:53:38 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.05.07 20:53:39 INFO  Attempting to connect to the build server...
+2025.05.07 20:53:39 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.07 20:53:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.07 20:53:40 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.07 20:53:45 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.07 20:53:45 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.07 20:53:45 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.07 20:53:45 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.07 20:53:51 INFO  time: Connected to build server in 12s
+2025.05.07 20:53:51 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.07 20:53:52 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.07 20:53:57 INFO  time: indexed workspace in 5.87s
+2025.05.07 20:54:04 INFO  time: compiled language-tutorials_4b176b44ab in 11s
+2025.05.07 20:54:04 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.07 20:54:10 INFO  time: compiled language-tutorials_4b176b44ab in 5.94s
+2025.05.08 20:24:40 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.05.08 20:24:45 INFO  Attempting to connect to the build server...
+2025.05.08 20:24:45 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.08 20:24:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.08 20:24:45 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.08 20:24:48 INFO  BSP server: Starting compilation server
+2025.05.08 20:24:54 INFO  time: Connected to build server in 9.41s
+2025.05.08 20:24:54 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.08 20:24:56 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.08 20:25:04 INFO  time: compiled language-tutorials_4b176b44ab in 8.82s
+2025.05.08 20:25:04 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.08 20:25:06 ERROR org.h2.jdbc.JdbcSQLNonTransientConnectionException: Error opening database: "Concurrent update" [8000-232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:516)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.store.FileLock.getExceptionFatal(FileLock.java:429)
+	at org.h2.store.FileLock.lockFile(FileLock.java:337)
+	at org.h2.store.FileLock.lock(FileLock.java:110)
+	at org.h2.engine.Database.<init>(Database.java:317)
+	at org.h2.engine.Engine.openSession(Engine.java:92)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:344)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:124)
+	at org.h2.Driver.connect(Driver.java:59)
+	at java.sql.DriverManager.getConnection(DriverManager.java:681)
+	at java.sql.DriverManager.getConnection(DriverManager.java:229)
+	at scala.meta.internal.metals.H2ConnectionProvider.upgradeIfNeeded(H2ConnectionProvider.scala:132)
+	at scala.meta.internal.metals.H2ConnectionProvider.persistentConnection(H2ConnectionProvider.scala:108)
+	at scala.meta.internal.metals.H2ConnectionProvider.tryAutoServer(H2ConnectionProvider.scala:62)
+	at scala.meta.internal.metals.H2ConnectionProvider.connect(H2ConnectionProvider.scala:44)
+	at scala.meta.internal.metals.SqlSharedIndices.$anonfun$jvmTypeHierarchy$1(SqlSharedIndices.scala:24)
+	at scala.meta.internal.metals.JarTypeHierarchy.getTypeHierarchy(JarTopLevels.scala:182)
+	at scala.meta.internal.metals.Indexer.indexJdkSources(Indexer.scala:425)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$20(Indexer.scala:194)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$19(Indexer.scala:191)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$19$adapted(Indexer.scala:187)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Indexer.indexWorkspace(Indexer.scala:187)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$2(Indexer.scala:57)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$1(Indexer.scala:57)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.05.08 20:25:06 INFO  time: indexed workspace in 12s
+2025.05.08 20:25:09 INFO  time: compiled language-tutorials_4b176b44ab in 4.11s
+2025.05.10 12:49:20 INFO  Started: Metals version 1.5.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.99.3.
+2025.05.10 12:49:25 INFO  Attempting to connect to the build server...
+2025.05.10 12:49:25 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.10 12:49:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.10 12:49:25 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.10 12:49:29 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.10 12:49:29 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.10 12:49:29 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.10 12:49:31 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.10 12:49:34 INFO  time: Connected to build server in 8.86s
+2025.05.10 12:49:34 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.10 12:49:35 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.10 12:49:38 INFO  time: indexed workspace in 4.55s
+2025.05.10 12:49:45 INFO  time: compiled language-tutorials_4b176b44ab in 10s
+2025.05.10 12:49:45 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.10 12:49:49 INFO  time: compiled language-tutorials_4b176b44ab in 3.52s
+2025.05.14 10:38:22 INFO  Shutting down server
+2025.05.14 10:38:22 INFO  shutting down Metals
+2025.05.14 10:38:23 INFO  Shut down connection with build server.
+2025.05.14 10:38:22 INFO  Exiting server
+2025.05.14 10:39:59 INFO  Started: Metals version 1.5.3 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.100.0.
+2025.05.14 10:40:00 INFO  Attempting to connect to the build server...
+2025.05.14 10:40:00 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.14 10:40:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.14 10:40:01 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.05.14 10:40:03 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.14 10:40:03 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.14 10:40:03 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.14 10:40:03 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.05.14 10:40:07 INFO  time: Connected to build server in 6.53s
+2025.05.14 10:40:07 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.14 10:40:07 INFO  time: Imported build in 0.19s
+2025.05.14 10:40:08 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.14 10:40:11 INFO  time: indexed workspace in 4.22s
+2025.05.14 10:40:12 INFO  time: compiled language-tutorials_4b176b44ab in 4.19s
+2025.05.14 10:40:12 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.14 10:40:16 INFO  time: compiled language-tutorials_4b176b44ab in 3.74s
+2025.05.15 09:25:14 INFO  Shutting down server
+2025.05.15 09:25:14 INFO  shutting down Metals
+2025.05.15 09:25:16 INFO  Shut down connection with build server.
+2025.05.15 09:25:16 INFO  Exiting server
+2025.05.15 09:46:25 INFO  Started: Metals version 1.5.3 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.100.1.
+2025.05.15 09:46:25 INFO  time: initialize in 0.35s
+2025.05.15 09:46:35 INFO  Attempting to connect to the build server...
+2025.05.15 09:46:35 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.05.15 09:46:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.15 09:48:02 INFO  time: Connected to build server in 42s
+2025.05.15 09:48:02 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.15 09:48:02 INFO  time: Imported build in 0.15s
+2025.05.15 09:48:15 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.15 09:48:17 INFO  time: indexed workspace in 14s
+2025.05.15 09:48:32 INFO  time: compiled language-tutorials_4b176b44ab in 16s
+2025.05.15 09:48:32 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.05.15 09:48:41 INFO  time: compiled language-tutorials_4b176b44ab in 8.9s
+May 15, 2025 10:07:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
