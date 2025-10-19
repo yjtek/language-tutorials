@@ -3333,3 +3333,356 @@ INFO: Unsupported notification method: $/setTrace
 2025.05.15 09:48:41 INFO  time: compiled language-tutorials_4b176b44ab in 8.9s
 May 15, 2025 10:07:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.05.15 22:08:49 INFO  Shutting down server
+2025.05.15 22:08:49 INFO  shutting down Metals
+2025.05.15 22:08:50 INFO  Shut down connection with build server.
+2025.05.15 22:08:49 INFO  Exiting server
+2025.08.06 11:41:30 INFO  Started: Metals version 1.6.1 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.102.3.
+2025.08.06 11:41:32 INFO  Attempting to connect to the build server...
+2025.08.06 11:41:32 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.06 11:41:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.06 11:41:35 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.06 11:41:35 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.06 11:41:35 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.06 11:41:35 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.06 11:41:38 INFO  time: Connected to build server in 5.83s
+2025.08.06 11:41:38 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.06 11:41:38 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.06 11:41:42 INFO  time: indexed workspace in 4.51s
+2025.08.06 11:41:45 INFO  time: compiled language-tutorials_4b176b44ab in 7.18s
+2025.08.06 11:41:45 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.06 11:41:49 INFO  time: compiled language-tutorials_4b176b44ab in 3.72s
+2025.08.08 12:31:10 INFO  Shutting down server
+2025.08.08 12:31:10 INFO  shutting down Metals
+2025.08.08 12:31:11 INFO  Shut down connection with build server.
+2025.08.08 12:31:11 INFO  Exiting server
+2025.08.08 12:32:10 INFO  Started: Metals version 1.6.1 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.0.
+2025.08.08 12:32:12 INFO  Attempting to connect to the build server...
+2025.08.08 12:32:12 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.08 12:32:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.08 12:32:16 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.08 12:32:19 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.08 12:32:19 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.08 12:32:19 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.08 12:32:19 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.08 12:32:25 INFO  time: Connected to build server in 12s
+2025.08.08 12:32:25 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.08 12:32:25 INFO  time: Imported build in 0.14s
+2025.08.08 12:32:26 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.08 12:32:33 INFO  time: indexed workspace in 7.67s
+2025.08.08 12:32:34 INFO  time: compiled language-tutorials_4b176b44ab in 7.04s
+2025.08.08 12:32:34 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.08 12:32:37 INFO  time: compiled language-tutorials_4b176b44ab in 3.27s
+2025.08.09 21:29:20 INFO  Started: Metals version 1.6.1 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.0.
+2025.08.09 21:29:27 INFO  Attempting to connect to the build server...
+2025.08.09 21:29:27 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.09 21:29:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.09 21:29:33 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.09 21:29:33 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.09 21:29:33 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.09 21:29:33 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.09 21:29:35 INFO  BSP server: Starting compilation server
+2025.08.09 21:29:45 INFO  time: Connected to build server in 16s
+2025.08.09 21:29:45 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.09 21:29:45 INFO  time: Imported build in 0.11s
+2025.08.09 21:29:51 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.09 21:29:58 INFO  time: indexed workspace in 13s
+2025.08.09 21:30:10 INFO  time: compiled language-tutorials_4b176b44ab in 18s
+2025.08.09 21:30:10 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.09 21:30:17 INFO  time: compiled language-tutorials_4b176b44ab in 7.33s
+2025.08.10 11:27:19 INFO  Shutting down server
+2025.08.10 11:27:19 INFO  shutting down Metals
+2025.08.10 11:27:19 INFO  Exiting server
+2025.08.10 11:28:17 INFO  Started: Metals version 1.6.1 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.0.
+2025.08.10 11:28:21 INFO  Attempting to connect to the build server...
+2025.08.10 11:28:21 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.10 11:28:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.10 11:28:21 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.10 11:28:39 INFO  time: Connected to build server in 18s
+2025.08.10 11:28:39 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.10 11:28:39 INFO  time: Imported build in 0.13s
+2025.08.10 11:28:40 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.10 11:28:48 INFO  time: compiled language-tutorials_4b176b44ab in 7.81s
+2025.08.10 11:28:47 INFO  time: indexed workspace in 8.55s
+2025.08.10 11:28:48 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.10 11:28:52 INFO  time: compiled language-tutorials_4b176b44ab in 4.38s
+Aug 10, 2025 11:50:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.08.10 12:07:49 INFO  Shutting down server
+2025.08.10 12:07:49 INFO  shutting down Metals
+2025.08.10 12:07:49 INFO  Shut down connection with build server.
+2025.08.10 12:07:49 INFO  Exiting server
+2025.08.10 12:08:58 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.0.
+2025.08.10 12:08:59 INFO  Attempting to connect to the build server...
+2025.08.10 12:08:59 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.10 12:08:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.10 12:08:59 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.10 12:09:08 INFO  time: Connected to build server in 9.53s
+2025.08.10 12:09:08 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.10 12:09:09 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.10 12:09:18 INFO  time: compiled language-tutorials_4b176b44ab in 8.2s
+2025.08.10 12:09:18 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.10 12:09:20 INFO  time: indexed workspace in 12s
+2025.08.10 12:09:22 INFO  time: compiled language-tutorials_4b176b44ab in 4.34s
+2025.08.12 13:36:56 INFO  BSP server: Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+2025.08.12 13:36:56 INFO  BSP server: Running the clean sub-command to clear the working directory and remove caches might help.
+2025.08.12 13:36:56 INFO  BSP server: If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing -v -v -v.
+2025.08.12 13:37:38 INFO  Shutting down server
+2025.08.12 13:37:38 INFO  shutting down Metals
+2025.08.12 13:37:38 INFO  Shut down connection with build server.
+2025.08.12 13:37:38 INFO  Exiting server
+2025.08.15 21:56:10 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.0.
+2025.08.15 21:56:11 INFO  time: initialize in 0.14s
+2025.08.15 21:56:17 INFO  Attempting to connect to the build server...
+2025.08.15 21:56:17 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.15 21:56:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.15 21:56:19 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.15 21:57:07 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.15 21:57:07 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.15 21:57:07 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.15 21:57:08 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.15 21:57:18 ERROR Timeout waiting for 'build/initialize' response
+2025.08.15 21:57:18 WARN  Retrying connection to the build server scala-cli
+2025.08.15 21:57:18 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.15 21:57:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.15 21:57:18 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.15 21:57:43 INFO  time: Connected to build server in 1m26s
+2025.08.15 21:57:43 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.15 21:57:43 INFO  time: Imported build in 0.17s
+2025.08.15 21:57:44 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.15 21:57:45 INFO  Shutting down server
+2025.08.15 21:57:45 INFO  shutting down Metals
+2025.08.15 21:57:45 INFO  Shut down connection with build server.
+2025.08.15 21:57:47 INFO  Exiting server
+2025.08.15 22:21:25 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.0.
+2025.08.15 22:21:27 INFO  Attempting to connect to the build server...
+2025.08.15 22:21:27 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.15 22:21:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.15 22:21:27 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.15 22:21:43 INFO  time: Connected to build server in 15s
+2025.08.15 22:21:43 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.15 22:21:43 INFO  time: Imported build in 0.14s
+2025.08.15 22:21:44 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.15 22:21:50 INFO  time: indexed workspace in 6.98s
+2025.08.15 22:22:03 INFO  time: compiled language-tutorials_4b176b44ab in 19s
+2025.08.15 22:22:03 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.15 22:22:14 INFO  time: compiled language-tutorials_4b176b44ab in 9.37s
+2025.08.16 16:39:05 INFO  Shutting down server
+2025.08.16 16:39:05 INFO  shutting down Metals
+2025.08.16 16:39:05 INFO  Shut down connection with build server.
+2025.08.16 16:39:05 INFO  Exiting server
+2025.08.16 16:40:12 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.1.
+2025.08.16 16:40:12 INFO  time: initialize in 0.12s
+2025.08.16 16:40:20 INFO  Attempting to connect to the build server...
+2025.08.16 16:40:20 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.16 16:40:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+Aug 16, 2025 4:40:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.08.16 16:40:21 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.16 16:40:35 INFO  time: Connected to build server in 15s
+2025.08.16 16:40:35 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.16 16:40:35 INFO  time: Imported build in 0.11s
+2025.08.16 16:40:36 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.16 16:40:43 INFO  time: compiled language-tutorials_4b176b44ab in 6.84s
+2025.08.16 16:40:43 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.16 16:40:45 INFO  time: indexed workspace in 10s
+2025.08.16 16:40:48 INFO  time: compiled language-tutorials_4b176b44ab in 4.42s
+2025.08.17 09:45:10 INFO  Shutting down server
+2025.08.17 09:45:10 INFO  shutting down Metals
+2025.08.17 09:45:11 INFO  Shut down connection with build server.
+2025.08.17 09:47:33 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.1.
+2025.08.17 09:47:36 INFO  Attempting to connect to the build server...
+2025.08.17 09:47:36 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.17 09:47:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.17 09:47:44 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.17 09:47:44 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.17 09:47:44 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.17 09:47:44 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.17 09:47:50 INFO  time: Connected to build server in 14s
+2025.08.17 09:47:50 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.17 09:47:51 INFO  time: Imported build in 0.36s
+2025.08.17 09:47:53 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.17 09:47:58 INFO  time: indexed workspace in 7.23s
+2025.08.17 09:48:04 INFO  time: compiled language-tutorials_4b176b44ab in 11s
+2025.08.17 09:48:04 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.17 09:48:07 INFO  time: compiled language-tutorials_4b176b44ab in 3.15s
+Aug 18, 2025 5:08:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 18, 2025 5:08:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 18, 2025 5:11:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.08.20 08:46:36 INFO  Shutting down server
+2025.08.20 08:46:36 INFO  shutting down Metals
+2025.08.20 08:46:37 INFO  Shut down connection with build server.
+2025.08.20 08:46:36 INFO  Exiting server
+2025.08.20 08:49:02 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.1.
+2025.08.20 08:49:02 INFO  time: initialize in 0.17s
+2025.08.20 08:49:06 INFO  Attempting to connect to the build server...
+2025.08.20 08:49:06 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.20 08:49:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.20 08:49:15 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.20 08:49:15 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.20 08:49:15 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.20 08:49:15 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.20 08:49:22 INFO  time: Connected to build server in 15s
+2025.08.20 08:49:22 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.20 08:49:22 INFO  time: Imported build in 0.15s
+2025.08.20 08:49:24 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.20 08:49:31 INFO  time: indexed workspace in 9.84s
+2025.08.20 08:49:36 INFO  time: compiled language-tutorials_4b176b44ab in 12s
+2025.08.20 08:49:36 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.20 08:49:43 INFO  time: compiled language-tutorials_4b176b44ab in 5.95s
+2025.08.22 19:02:04 INFO  Shutting down server
+2025.08.22 19:02:04 INFO  shutting down Metals
+2025.08.22 19:02:04 INFO  Shut down connection with build server.
+2025.08.22 19:02:04 INFO  Exiting server
+2025.08.22 22:57:33 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.1.
+2025.08.22 22:57:36 INFO  Attempting to connect to the build server...
+2025.08.22 22:57:36 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.22 22:57:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.22 22:57:37 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.08.22 22:57:41 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.22 22:57:41 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.22 22:57:41 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.22 22:57:41 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.22 22:57:47 INFO  time: Connected to build server in 10s
+2025.08.22 22:57:47 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.22 22:57:47 INFO  time: Imported build in 0.18s
+2025.08.22 22:57:49 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.22 22:57:54 INFO  time: indexed workspace in 7.78s
+2025.08.22 22:58:03 INFO  time: compiled language-tutorials_4b176b44ab in 13s
+2025.08.22 22:58:03 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.22 22:58:10 INFO  time: compiled language-tutorials_4b176b44ab in 6.67s
+2025.08.22 23:21:47 INFO  Shutting down server
+2025.08.22 23:21:47 INFO  shutting down Metals
+2025.08.22 23:21:47 INFO  Shut down connection with build server.
+2025.08.22 23:21:47 INFO  Exiting server
+2025.08.22 23:29:57 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.08.22 23:29:59 INFO  Attempting to connect to the build server...
+2025.08.22 23:29:59 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.22 23:30:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.22 23:30:06 INFO  time: Connected to build server in 6.58s
+2025.08.22 23:30:06 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.22 23:30:07 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.22 23:30:10 INFO  time: indexed workspace in 4.95s
+2025.08.22 23:30:17 INFO  time: compiled language-tutorials_4b176b44ab in 10s
+2025.08.22 23:30:17 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.22 23:30:23 INFO  time: compiled language-tutorials_4b176b44ab in 5.32s
+2025.08.28 13:06:10 INFO  Shutting down server
+2025.08.28 13:06:10 INFO  shutting down Metals
+2025.08.28 13:06:10 INFO  Exiting server
+2025.08.28 13:08:40 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.08.28 13:08:40 INFO  time: initialize in 0.13s
+2025.08.28 13:08:42 INFO  Attempting to connect to the build server...
+2025.08.28 13:08:42 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.08.28 13:08:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.08.28 13:08:47 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.28 13:08:47 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.28 13:08:47 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.28 13:08:47 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.08.28 13:08:47 INFO  BSP server: Starting compilation server
+2025.08.28 13:08:55 INFO  time: Connected to build server in 12s
+2025.08.28 13:08:55 INFO  Connected to Build server: scala-cli v1.7.1
+2025.08.28 13:08:57 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.28 13:09:00 INFO  time: indexed workspace in 4.56s
+2025.08.28 13:09:08 INFO  time: compiled language-tutorials_4b176b44ab in 11s
+2025.08.28 13:09:08 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.08.28 13:09:14 INFO  time: compiled language-tutorials_4b176b44ab in 6.07s
+Aug 31, 2025 11:40:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.09.02 09:58:38 INFO  Shutting down server
+2025.09.02 09:58:38 INFO  shutting down Metals
+2025.09.02 09:58:39 INFO  Shut down connection with build server.
+2025.09.02 09:58:40 INFO  Exiting server
+2025.09.02 10:01:13 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.09.02 10:01:17 INFO  Attempting to connect to the build server...
+2025.09.02 10:01:17 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.09.02 10:01:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.02 10:01:27 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.02 10:01:27 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.02 10:01:27 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.02 10:01:27 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.02 10:01:28 INFO  BSP server: Starting compilation server
+2025.09.02 10:01:39 INFO  time: Connected to build server in 21s
+2025.09.02 10:01:39 INFO  Connected to Build server: scala-cli v1.7.1
+2025.09.02 10:01:39 INFO  time: Imported build in 0.21s
+2025.09.02 10:01:42 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.02 10:01:52 INFO  time: indexed workspace in 13s
+2025.09.02 10:02:05 INFO  time: compiled language-tutorials_4b176b44ab in 23s
+2025.09.02 10:02:05 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.02 10:02:19 INFO  time: compiled language-tutorials_4b176b44ab in 13s
+2025.09.04 08:53:22 INFO  Shutting down server
+2025.09.04 08:53:22 INFO  shutting down Metals
+2025.09.04 08:53:22 INFO  Shut down connection with build server.
+2025.09.04 08:53:22 INFO  Exiting server
+2025.09.04 08:56:42 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.09.04 08:56:46 INFO  Attempting to connect to the build server...
+2025.09.04 08:56:46 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.09.04 08:56:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.04 08:56:54 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.04 08:56:54 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.04 08:56:54 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.04 08:56:55 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.04 08:56:57 INFO  BSP server: Starting compilation server
+2025.09.04 08:57:06 INFO  time: Connected to build server in 20s
+2025.09.04 08:57:06 INFO  Connected to Build server: scala-cli v1.7.1
+2025.09.04 08:57:06 INFO  time: Imported build in 0.13s
+2025.09.04 08:57:08 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.04 08:57:12 INFO  time: indexed workspace in 6.22s
+2025.09.04 08:57:21 INFO  time: compiled language-tutorials_4b176b44ab in 13s
+2025.09.04 08:57:21 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.04 08:57:26 INFO  time: compiled language-tutorials_4b176b44ab in 4.43s
+Sept 04, 2025 10:15:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.09.05 14:53:44 INFO  Shutting down server
+2025.09.05 14:53:44 INFO  shutting down Metals
+2025.09.05 14:53:45 INFO  Shut down connection with build server.
+2025.09.05 14:53:44 INFO  Exiting server
+2025.09.05 14:57:15 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.09.05 14:57:19 INFO  Attempting to connect to the build server...
+2025.09.05 14:57:19 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.09.05 14:57:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.05 14:57:24 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.05 14:57:24 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.05 14:57:24 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.05 14:57:24 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2025.09.05 14:57:26 INFO  BSP server: Starting compilation server
+2025.09.05 14:57:36 INFO  time: Connected to build server in 17s
+2025.09.05 14:57:36 INFO  Connected to Build server: scala-cli v1.7.1
+2025.09.05 14:57:39 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.05 14:57:45 INFO  time: indexed workspace in 9.74s
+2025.09.05 14:57:53 INFO  time: compiled language-tutorials_4b176b44ab in 14s
+2025.09.05 14:57:53 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.05 14:57:59 INFO  time: compiled language-tutorials_4b176b44ab in 6.04s
+2025.09.06 10:23:32 INFO  Shutting down server
+2025.09.06 10:23:32 INFO  shutting down Metals
+2025.09.06 10:23:32 INFO  Shut down connection with build server.
+2025.09.06 10:23:32 INFO  Exiting server
+2025.09.06 11:15:50 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.09.06 11:15:50 INFO  time: initialize in 0.11s
+2025.09.06 11:15:54 INFO  Attempting to connect to the build server...
+2025.09.06 11:15:54 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.09.06 11:15:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.06 11:16:03 INFO  time: Connected to build server in 8.19s
+2025.09.06 11:16:03 INFO  Connected to Build server: scala-cli v1.7.1
+2025.09.06 11:16:03 INFO  time: Imported build in 0.13s
+2025.09.06 11:16:03 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.06 11:16:07 INFO  time: indexed workspace in 4.45s
+2025.09.06 11:16:11 INFO  time: compiled language-tutorials_4b176b44ab in 7.77s
+2025.09.06 11:16:11 INFO  compiling language-tutorials_4b176b44ab (75 scala sources and 293 java sources)
+2025.09.06 11:16:15 INFO  time: compiled language-tutorials_4b176b44ab in 3.7s
+2025.09.06 11:16:19 INFO  Shutting down server
+2025.09.06 11:16:19 INFO  shutting down Metals
+2025.09.06 11:16:19 INFO  Shut down connection with build server.
+2025.09.06 11:16:19 INFO  Exiting server
+2025.09.06 11:16:37 INFO  Started: Metals version 1.6.2 in folders '/Users/yongjian.tek/Desktop/language-tutorials' for client Visual Studio Code 1.103.2.
+2025.10.19 12:14:59 INFO  Started: Metals version 1.6.3 in folders '/Users/yongjian.tek/Desktop/personal/language-tutorials' for client Cursor 1.99.3.
+2025.10.19 12:14:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.10.19 12:14:59 INFO  Attempting to connect to the build server...
+2025.10.19 12:14:59 INFO  Running BSP server List(/Users/yongjian.tek/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-launcher-options.json, --envs-file, /Users/yongjian.tek/Desktop/language-tutorials/.scala-build/ide-envs.json, /Users/yongjian.tek/Desktop/language-tutorials)
+2025.10.19 12:14:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yongjian.tek/Desktop/personal/language-tutorials/.metals/bsp.trace.json or /Users/yongjian.tek/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.10.19 12:15:00 INFO  BSP server: Warning: Only java properties are supported in JAVA_OPTS and JDK_JAVA_OPTIONS environment variables. Other options are ignored: -Xmx3536m, -Xss4M
+2025.10.19 12:15:00 INFO  BSP server: [error]  /Users/yongjian.tek/Desktop/language-tutorials: input file not found
+2025.10.19 12:15:00 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2025.10.19 12:15:00 INFO  BSP server:   scala-cli bsp --help
